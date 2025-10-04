@@ -1,0 +1,66 @@
+[
+  {
+    "id": "frances",
+    "name": "Camino Francés",
+    "color": "#1E88E5",
+    "pointIds": [
+      "military_miniatures",
+      "plaza_del_castillo",
+      "logrongo",
+      "calzada",
+      "burgos_cathedral",
+      "anta_maria_cathedral",
+      "santa_maria_cathedral",
+      "plaza_mayor",
+      "astorga",
+      "ponferadda",
+      "santiago_cathedral"
+    ]
+  },
+  {
+    "id": "alternative_frances",
+    "name": "Альтернативный путь Camino Francés",
+    "color": "#1E88E5",
+    "pointIds": [
+      "roncesvalles",
+      "plaza_del_castillo"
+    ]
+  },
+  {
+    "id": "portugal",
+    "name": "Camino Portugal",
+    "color": "#FFA500",
+    "pointIds": [
+      "clerigos",
+      "clock_tower",
+      "сoncatedral",
+      "basilica",
+      "santiago_cathedral"
+    ]
+  },
+  {
+    "id": "plata",
+    "name": "Camino Plata",
+    "color": "#77DD77",
+    "pointIds": [
+      "sevilla",
+      "merida",
+      "caceres",
+      "salamanca",
+      "ourense",
+      "santiago_cathedral"
+    ]
+  },
+  {
+    "id": "le_puy",
+    "name": "Le Puy Camino",
+    "color": "#9D00FF",
+    "pointIds": [
+      "le_puy",
+      "figeac",
+      "valentre",
+      "moissac",
+      "roncesvalles"
+    ]
+  }
+]
